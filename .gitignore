@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# large reference files
+*boeing-aircrafts.csv
+
 # Distribution / packaging
 .Python
 build/
